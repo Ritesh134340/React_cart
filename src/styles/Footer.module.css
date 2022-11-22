@@ -1,0 +1,24 @@
+.faq{
+    color:white;
+    text-decoration: none;
+}
+.social{
+  
+        width:200px;
+        display:flex;
+        justify-content:space-evenly;
+        font-size:20px;
+        margin-left:500px
+ 
+}
+.footer{
+   
+   
+        background-color:black;
+        color:white;
+        display:flex;
+        align-items:center;
+        justify-content:space-evenly;
+        height:100px
+ 
+}

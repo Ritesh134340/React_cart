@@ -1,0 +1,52 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+.main{
+    display: flex;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    height:80px;
+    justify-content: space-evenly;
+    
+    
+}
+
+
+.child{
+ 
+    display:flex;
+    text-align: center;
+    justify-content: space-evenly;
+    width:500px;
+
+    
+}
+.shop{
+    font-weight: bold;
+    width:100px;
+    margin-left:-20px;
+}
+.cart{
+    margin-left:300px;
+    color:black;
+    font-size: 25px;
+   
+}
+.count{
+   border:1px solid red;
+   display:flex;
+   margin-left:-183px;
+   margin-bottom:20px;
+   justify-content: center;
+   align-items: center;
+   width:20px;
+   height:20px;
+   border-radius: 50%;
+
+  
+ 
+   
+}
+

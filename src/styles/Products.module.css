@@ -1,0 +1,29 @@
+.main{
+    margin:auto;
+    width:95%;
+   
+    display:flex;
+    justify-content: space-evenly;
+    height:400px;
+    margin-top:10px;
+    margin-bottom: 20px;
+
+}
+.img{
+  width:350px;
+  height:360px;
+  
+}
+
+.link{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color:black;
+    width:350px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+     
+    border-radius: 15px;
+}
